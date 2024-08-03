@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-The package Index 
-"""
+"""The package Index"""
 
 from flask import jsonify
 from api.v1.views import app_views
